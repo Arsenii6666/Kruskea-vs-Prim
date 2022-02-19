@@ -2,10 +2,17 @@ from Generator import gnp_random_connected_graph
 import networkx
 
 def algoritm(edges, edge_num):
+    """
+    Main part. Get edges, in list format (example: [{1:{weight:3}},{0:{weight:3}, 2:{weight:2}},{1:{weight:2}}]), and its number.
+    Retur tree with minimum weight.
+    How it work: all edges geted and sorted, using as a key weight. Than edge with less weight geted.
+    If incedent vertexes was not in one graph, we get it to the tree. Else, we get next edge. When we get edge_num-1 edges, alghoritm stoped.
+    """
     mentioned_edges=set()
     vertexes={}
     weights=[]
     Tree=[]
+    #getting adeges
     for vertex1 in range(edge_num):
         vertexes[vertex1]=f'{vertex1}'
         for vertex2 in edges[vertex1]:
@@ -16,6 +23,7 @@ def algoritm(edges, edge_num):
                 weights.append(edge)
     weights.sort(key=lambda x: x[0])
     i=0
+    #main algoritm
     for vertex in weights:
         vertex1=vertex[1][0]
         vertex2=vertex[1][1]

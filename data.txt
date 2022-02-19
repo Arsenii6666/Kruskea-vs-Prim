@@ -1,0 +1,119 @@
+Big size
+    1000 iteretions:
+        Prim (time 0.0010464601516723632) is quicker then Kruskal (time 0.0010512223243713378) at 0.45507444228660177%. (Verteves: 100, Chance: 0.1)
+        Prim (time 0.001099161386489868) is quicker then Kruskal (time 0.0013091604709625244) at 19.105391351426633%. (Verteves: 100, Chance: 0.2)
+        Prim (time 0.001361875057220459) is quicker then Kruskal (time 0.0019691338539123537) at 44.589905180530224%. (Verteves: 100, Chance: 0.3)
+        Prim (time 0.001602916955947876) is quicker then Kruskal (time 0.0026582529544830324) at 65.8384699606031%. (Verteves: 100, Chance: 0.4)
+        Prim (time 0.0018463144302368164) is quicker then Kruskal (time 0.003034806251525879) at 64.37104113066056%. (Verteves: 100, Chance: 0.5)
+        Prim (time 0.002121814489364624) is quicker then Kruskal (time 0.003608649969100952) at 70.0737735173804%. (Verteves: 100, Chance: 0.6)
+        Prim (time 0.0023569796085357664) is quicker then Kruskal (time 0.004173777580261231) at 77.08161602866471%. (Verteves: 100, Chance: 0.7)
+        Prim (time 0.002761861801147461) is quicker then Kruskal (time 0.005073701143264771) at 83.70582992808758%. (Verteves: 100, Chance: 0.8)
+        Prim (time 0.0025672972202301025) is quicker then Kruskal (time 0.00464717698097229) at 81.0143735736126%. (Verteves: 100, Chance: 0.9)
+        Prim (time 0.00261832332611084) is quicker then Kruskal (time 0.005056783437728882) at 93.13059572516741%. (Verteves: 100, Chance: 1.0)
+
+        Prim (time 0.0007589821815490723) is quicker then Kruskal (time 0.0007627804279327393) at 0.5004394669601879%. (Verteves: 100, Chance: 0.1)
+        Prim (time 0.0047792942523956295) is quicker then Kruskal (time 0.0050151185989379884) at 4.934292263426784%. (Verteves: 300, Chance: 0.1)
+        Prim (time 0.013076045513153077) is quicker then Kruskal (time 0.013732110500335694) at 5.017304249382477%. (Verteves: 500, Chance: 0.1)
+        Prim (time 0.034382811069488525) is quicker then Kruskal (time 0.04227873992919922) at 22.964756557434526%. (Verteves: 800, Chance: 0.1)
+        Prim (time 0.05659388566017151) is quicker then Kruskal (time 0.07239692378044128) at 27.92357855610419%. (Verteves: 1000, Chance: 0.1)
+        Prim (time 0.1332232367992401) is quicker then Kruskal (time 0.1787012321949005) at 34.136684026220706%. (Verteves: 1500, Chance: 0.1)
+
+    500 iteretions
+        Prim (time 0.0003440532684326172) is quicker then Kruskal (time 0.0003757829666137695) at 9.222321393922911%. (Verteves: 50, Chance: 0.1)
+        Prim (time 0.00099041748046875) is quicker then Kruskal (time 0.0010194063186645507) at 2.926931194922048%. (Verteves: 100, Chance: 0.1)
+        Prim (time 0.004864702701568604) is quicker then Kruskal (time 0.005166762828826904) at 6.20922070244707%. (Verteves: 300, Chance: 0.1)
+        Prim (time 0.013313423156738282) is quicker then Kruskal (time 0.014552867412567139) at 9.309733802020276%. (Verteves: 500, Chance: 0.1)
+        Prim (time 0.035646999835968016) is quicker then Kruskal (time 0.04459732294082642) at 25.10820867406484%. (Verteves: 800, Chance: 0.1)
+        Prim (time 0.05576085662841797) is quicker then Kruskal (time 0.0717532696723938) at 28.6803575320711%. (Verteves: 1000, Chance: 0.1)
+        Prim (time 0.081307448387146) is quicker then Kruskal (time 0.10800896215438843) at 32.84018167696394%. (Verteves: 1200, Chance: 0.1)
+        Prim (time 0.1494419083595276) is quicker then Kruskal (time 0.21277599668502808) at 42.38040655445275%. (Verteves: 1500, Chance: 0.1)
+        Prim (time 0.24138622903823853) is quicker then Kruskal (time 0.3552985043525696) at 47.19087570496242%. (Verteves: 1800, Chance: 0.1)
+        Prim (time 0.254187949180603) is quicker then Kruskal (time 0.3521917362213135) at 38.555638596020856%. (Verteves: 2000, Chance: 0.1)
+
+        Kruskal (time 0.0011128854751586913) is quicker then Prim (time 0.0018434572219848634) at 65.64662430534432%. (Verteves: 50, Chance: 0.1) ?
+        Kruskal (time 0.003448983192443848) is quicker then Prim (time 0.006629382610321045) at 92.21266792035772%. (Verteves: 100, Chance: 0.2) ?
+        Kruskal (time 0.038194815635681154) is quicker then Prim (time 0.06133340072631836) at 60.58043403414524%. (Verteves: 300, Chance: 0.3) ?
+        Kruskal (time 0.15020009279251098) is quicker then Prim (time 0.19730627059936523) at 31.362282759656836%. (Verteves: 500, Chance: 0.4) ?
+        Kruskal (time 0.49561113834381104) is quicker then Prim (time 0.5694904055595398) at 14.906700334179718%. (Verteves: 800, Chance: 0.5) ?
+
+    100 iteretions
+        Prim (time 0.0003535604476928711) is quicker then Kruskal (time 0.0003785967826843262) at 7.081203555100004%. (Verteves: 50, Chance: 0.1)
+        Prim (time 0.0010851049423217774) is quicker then Kruskal (time 0.0012858200073242187) at 18.49729525450094%. (Verteves: 100, Chance: 0.2)
+        Prim (time 0.009660968780517578) is quicker then Kruskal (time 0.01520740270614624) at 57.41074266603226%. (Verteves: 300, Chance: 0.3)
+        Prim (time 0.03202090740203858) is quicker then Kruskal (time 0.06603304386138915) at 106.21852788964134%. (Verteves: 500, Chance: 0.4)
+        Prim (time 0.1108902382850647) is quicker then Kruskal (time 0.24601644039154053) at 121.85581363718231%. (Verteves: 800, Chance: 0.5)
+        Prim (time 0.20692817687988282) is quicker then Kruskal (time 0.4753954100608826) at 129.73933140909998%. (Verteves: 1000, Chance: 0.6)
+
+    50 iteretions
+        Prim (time 0.0006280851364135742) is quicker then Kruskal (time 0.0007907724380493164) at 25.90210979433489%. (Verteves: 50, Chance: 0.5)
+        Prim (time 0.001589488983154297) is quicker then Kruskal (time 0.0026621055603027344) at 67.48185036299276%. (Verteves: 100, Chance: 0.5)
+        Prim (time 0.016121025085449218) is quicker then Kruskal (time 0.03234466075897217) at 100.6365016339212%. (Verteves: 300, Chance: 0.5)
+        Prim (time 0.03828092098236084) is quicker then Kruskal (time 0.08232706546783447) at 115.06030512110533%. (Verteves: 500, Chance: 0.5)
+
+        Kruskal (time 0.0008732080459594727) is quicker then Prim (time 0.0009446144104003906) at 8.177474402730383%. (Verteves: 50, Chance: 0.1)
+        Prim (time 0.0009311342239379883) is quicker then Kruskal (time 0.0009351253509521484) at 0.42863068626999734%. (Verteves: 100, Chance: 0.1)
+        Prim (time 0.005368576049804687) is quicker then Kruskal (time 0.00544865608215332) at 1.4916438103088154%. (Verteves: 300, Chance: 0.1)
+        Prim (time 0.014453182220458985) is quicker then Kruskal (time 0.01624585151672363) at 12.403284404226639%. (Verteves: 500, Chance: 0.1)
+        Prim (time 0.03423920631408692) is quicker then Kruskal (time 0.04241276741027832) at 23.871935059512708%. (Verteves: 800, Chance: 0.1)
+        Prim (time 0.054852375984191896) is quicker then Kruskal (time 0.07144947528839111) at 30.25775822178133%. (Verteves: 1000, Chance: 0.1)
+        Prim (time 0.07791428565979004) is quicker then Kruskal (time 0.10103311061859131) at 29.672125930472873%. (Verteves: 1200, Chance: 0.1)
+        Prim (time 0.12877359867095947) is quicker then Kruskal (time 0.16775835037231446) at 30.27386987993424%. (Verteves: 1500, Chance: 0.1)
+        Prim (time 0.1917426872253418) is quicker then Kruskal (time 0.26181368827819823) at 36.54428863329056%. (Verteves: 1800, Chance: 0.1)
+        Prim (time 0.2478254556655884) is quicker then Kruskal (time 0.3655206823348999) at 47.49117735029108%. (Verteves: 2000, Chance: 0.1)
+
+Small size
+    5000 iteretions:
+        Kruskal (time 0.00017108402252197265) is quicker then Prim (time 0.00017284765243530273) at 1.0308560012397265%. (Verteves: 5, Chance: 0.1)
+        Prim (time 0.0001533932685852051) is quicker then Kruskal (time 0.00015834341049194336) at 3.2270920050110306%. (Verteves: 10, Chance: 0.1)
+        Prim (time 0.00016791043281555175) is quicker then Kruskal (time 0.00017629847526550292) at 4.995545725955793%. (Verteves: 15, Chance: 0.1)
+        Prim (time 0.0001846825122833252) is quicker then Kruskal (time 0.0001996424674987793) at 8.100363716356497%. (Verteves: 20, Chance: 0.1)
+        Prim (time 0.00020680508613586427) is quicker then Kruskal (time 0.0002247163772583008) at 8.660952908416093%. (Verteves: 25, Chance: 0.1)
+        Prim (time 0.00024371786117553712) is quicker then Kruskal (time 0.00026264119148254394) at 7.764441315762795%. (Verteves: 30, Chance: 0.1)
+        Prim (time 0.00025241332054138185) is quicker then Kruskal (time 0.0002747211456298828) at 8.83781610283269%. (Verteves: 35, Chance: 0.1)
+        Prim (time 0.000271342134475708) is quicker then Kruskal (time 0.0002961052417755127) at 9.126156299924588%. (Verteves: 40, Chance: 0.1)
+        Prim (time 0.00029881315231323243) is quicker then Kruskal (time 0.0003248401165008545) at 8.710113322033152%. (Verteves: 45, Chance: 0.1)
+        Prim (time 0.00032525196075439453) is quicker then Kruskal (time 0.0003503514289855957) at 7.716930644471759%. (Verteves: 50, Chance: 0.1)
+    10000 iteretions
+        Kruskal (time 0.00014198133945465087) is quicker then Prim (time 0.00014218080043792725) at 0.14048394249729768%. (Verteves: 5, Chance: 0.1)
+        Prim (time 0.00015731558799743651) is quicker then Kruskal (time 0.00016307594776153564) at 3.6616586044817154%. (Verteves: 10, Chance: 0.2)
+        Prim (time 0.00018106803894042968) is quicker then Kruskal (time 0.0001979968786239624) at 9.349435594816498%. (Verteves: 15, Chance: 0.3)
+        Prim (time 0.00020718817710876466) is quicker then Kruskal (time 0.0002414496660232544) at 16.536411195173528%. (Verteves: 20, Chance: 0.4)
+        Prim (time 0.0002469655275344849) is quicker then Kruskal (time 0.0003043750762939453) at 23.245976607583046%. (Verteves: 25, Chance: 0.5)
+        Prim (time 0.00030082483291625977) is quicker then Kruskal (time 0.000393598747253418) at 30.83984571279845%. (Verteves: 30, Chance: 0.6)
+        Prim (time 0.00038012967109680177) is quicker then Kruskal (time 0.000526081919670105) at 38.39538443610098%. (Verteves: 35, Chance: 0.7)
+        Prim (time 0.0005585133552551269) is quicker then Kruskal (time 0.0007987324953079224) at 43.01045584542277%. (Verteves: 40, Chance: 0.8)
+        Prim (time 0.0006451767921447754) is quicker then Kruskal (time 0.0009837131977081298) at 52.47188207715138%. (Verteves: 45, Chance: 0.9)
+        Prim (time 0.0008120750665664673) is quicker then Kruskal (time 0.001289409613609314) at 58.7796087695518%. (Verteves: 50, Chance: 1.0)
+
+        Kruskal (time 0.0001425119161605835) is quicker then Prim (time 0.00014302849769592285) at 0.36248304651047647%. (Verteves: 5, Chance: 0.1)
+        Kruskal (time 0.00013888366222381592) is quicker then Prim (time 0.0001390205144882202) at 0.09853733852706625%. (Verteves: 5, Chance: 0.2)
+        Prim (time 0.00014085433483123779) is quicker then Kruskal (time 0.0001412647008895874) at 0.29134073782060455%. (Verteves: 5, Chance: 0.3)
+        Prim (time 0.00014024417400360109) is quicker then Kruskal (time 0.0001406042814254761) at 0.25677175143528075%. (Verteves: 5, Chance: 0.4)
+        Prim (time 0.00014182019233703613) is quicker then Kruskal (time 0.0001421154499053955) at 0.20819148775210294%. (Verteves: 5, Chance: 0.5)
+        Prim (time 0.00014101948738098145) is quicker then Kruskal (time 0.00014186153411865234) at 0.5971137417313059%. (Verteves: 5, Chance: 0.6)
+        Prim (time 0.00014528744220733642) is quicker then Kruskal (time 0.00014685332775115967) at 1.077784507754373%. (Verteves: 5, Chance: 0.7)
+        Prim (time 0.00014223718643188477) is quicker then Kruskal (time 0.00014379208087921143) at 1.0931701380857248%. (Verteves: 5, Chance: 0.8)
+        Prim (time 0.00014457790851593017) is quicker then Kruskal (time 0.0001461372137069702) at 1.0785224430523783%. (Verteves: 5, Chance: 0.9)
+        Prim (time 0.00014638621807098388) is quicker then Kruskal (time 0.00014834842681884765) at 1.3404327085711571%. (Verteves: 5, Chance: 1.0)
+
+        Kruskal (time 3.2421588897705077e-06) is quicker then Prim (time 0.00012754192352294923) at 3833.8578971364705%. (Verteves: 1, Chance: 0.1) ?
+        Kruskal (time 0.000133925461769104) is quicker then Prim (time 0.00013502886295318602) at 0.8238920138907986%. (Verteves: 2, Chance: 0.1)
+        Kruskal (time 0.00012969341278076173) is quicker then Prim (time 0.00013049876689910888) at 0.620967635194063%. (Verteves: 3, Chance: 0.1)
+        Kruskal (time 0.00013422279357910155) is quicker then Prim (time 0.0001346177339553833) at 0.29424240529533563%. (Verteves: 4, Chance: 0.1)
+        Prim (time 0.000137505841255188) is quicker then Kruskal (time 0.00013755764961242677) at 0.037677204666991315%. (Verteves: 5, Chance: 0.1)
+        Prim (time 0.00013910694122314454) is quicker then Kruskal (time 0.000139908504486084) at 0.5762208958743713%. (Verteves: 6, Chance: 0.1)
+        Prim (time 0.00014348902702331542) is quicker then Kruskal (time 0.0001456531286239624) at 1.5082000662638393%. (Verteves: 7, Chance: 0.1)
+        Prim (time 0.0001460773229598999) is quicker then Kruskal (time 0.0001489863634109497) at 1.9914387750988425%. (Verteves: 8, Chance: 0.1)
+        Prim (time 0.00015098750591278077) is quicker then Kruskal (time 0.00015405354499816893) at 2.0306574817914367%. (Verteves: 9, Chance: 0.1)
+
+        Kruskal (time 3.3132076263427733e-06) is quicker then Prim (time 0.00012422339916229249) at 3649.3394067613663%. (Verteves: 1, Chance: 0.5) ?
+        Kruskal (time 0.00012188503742218017) is quicker then Prim (time 0.00012337102890014649) at 1.2191746496489202%. (Verteves: 2, Chance: 0.5)
+        Kruskal (time 0.00012512543201446534) is quicker then Prim (time 0.0001265726089477539) at 1.1565809683848016%. (Verteves: 3, Chance: 0.5)
+        Kruskal (time 0.00013458633422851562) is quicker then Prim (time 0.00013541576862335206) at 0.6162842606502181%. (Verteves: 4, Chance: 0.5)
+        Prim (time 0.00013655333518981935) is quicker then Kruskal (time 0.0001366846799850464) at 0.09618571018017974%. (Verteves: 5, Chance: 0.5)
+        Prim (time 0.00014187440872192382) is quicker then Kruskal (time 0.00014365520477294921) at 1.2551918750306754%. (Verteves: 6, Chance: 0.5)
+        Prim (time 0.00014761385917663573) is quicker then Kruskal (time 0.00014997034072875977) at 1.5963823215977726%. (Verteves: 7, Chance: 0.5)
+        Prim (time 0.0001512608051300049) is quicker then Kruskal (time 0.00015554606914520264) at 2.833030018261965%. (Verteves: 8, Chance: 0.5)
+        Prim (time 0.00015792300701141358) is quicker then Kruskal (time 0.00016458053588867187) at 4.215680161648081%. (Verteves: 9, Chance: 0.5)
+        Prim (time 0.0001610766649246216) is quicker then Kruskal (time 0.00016929941177368165) at 5.104865346515595%. (Verteves: 10, Chance: 0.5)
+        

@@ -1,17 +1,35 @@
-Prim
+Prim (My vs Base) (100, 0.1)
     iteretions:500000
     0.000970472532749176
     0.0007491566805839538
     My algoritm is -22.804957862977716% slower
+    
     iteretions: 300000
     0.0009035832341512044
     0.0006918232234319051
     My algoritm is -23.43558431761072% slower
+    
     iteretions: 100000
     0.000949581995010376
     0.0007370266461372376
     My algoritm is -22.384096369773303% slower
+    
     iteretions:50000
     0.0009627026319503784
     0.0008037549638748169
     My algoritm is -16.510567521098693% slower
+
+Kruskal (My vs Base) (100, 0.1)
+    iteretions:500000
+    0.0011785238990783692
+    0.0008388782505989074
+    My algoritm is -28.819580896498735% slower
+
+    basik (time 4.0575408935546874e-05) is quicker then Kazimir (time 0.00014594123363494873) at 259.6790210217551%. (Verteves: 5, Chance: 0.1)
+    basik (time 7.341477870941162e-05) is quicker then Kazimir (time 0.0001812547206878662) at 146.8913260711494%. (Verteves: 10, Chance: 0.1)
+    basik (time 0.00010092885494232178) is quicker then Kazimir (time 0.00019061851501464842) at 88.8642401854078%. (Verteves: 15, Chance: 0.1)
+    basik (time 0.0001319131851196289) is quicker then Kazimir (time 0.00021009316444396974) at 59.26623578487721%. (Verteves: 20, Chance: 0.1)
+    basik (time 0.000171622633934021) is quicker then Kazimir (time 0.00023408498764038087) at 36.39517252157606%. (Verteves: 25, Chance: 0.1)
+    basik (time 0.00021436927318572999) is quicker then Kazimir (time 0.00026173505783081053) at 22.095416913618365%. (Verteves: 30, Chance: 0.1)
+    basik (time 0.0002564098596572876) is quicker then Kazimir (time 0.0002861985445022583) at 11.61760506588385%. (Verteves: 35, Chance: 0.1)
+    basik (time 0.00030373308658599856) is quicker then Kazimir (time 0.00031344926357269285) at 3.1989195171015012%. (Verteves: 40, Chance: 0.1)
