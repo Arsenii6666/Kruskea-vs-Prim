@@ -24,25 +24,40 @@ def Itererions(vertexes, chance):
     code_2=time_taken_code_2 / NUM_OF_ITERATIONS
     return code_1, code_2
 
-x_cor=[]
-prim_cor=[]
-kruskal_cor=[]
-for j in range(10):
-    j+=1
-    i=j*50
-    j/=10
+def Print_Grafic(Use_big_data: bool, Num_of_vertexes=None, complitness=None):
+    x_cor=[]
+    prim_cor=[]
+    kruskal_cor=[]
+    for j in range(10):
+        j+=1
+        i=j*5
+        if Use_big_data:
+            i*=10
+        j/=10
+        if (Num_of_vertexes==None)&(complitness==None):
+            return "Please give more information(Num_of_vertexes or complitness)"
+        if  (Num_of_vertexes!=None)&(complitness!=None):
+            return "You give to much data"
+        if complitness==None:
+            j=complitness
+            x=i
+            x_axis_name='x - num of vertexes'
+            answer=f"{j} complitness"
+        else:
+            i=Num_of_vertexes
+            x=j
+            x_axis_name='x - complitness'
+            answer=f"{i} vertexes"
 
-    j=1
-
-    x_cor.append(i)
-    result=Itererions(i, j)
-    kruskal_cor.append(result[0])
-    prim_cor.append(result[1])
-grafiks.plot(x_cor, kruskal_cor, label = "Kruskal")
-grafiks.plot(x_cor, prim_cor, label = "Prim")
-grafiks.xlabel('x - num of vertexes')
-grafiks.ylabel('y - average time')
-grafiks.title(f'A graph comparison of two algorithms ({50} iterations, {j} complitness)')
-grafiks.legend()
-grafiks.show()
+        x_cor.append(x)
+        result=Itererions(i, j)
+        kruskal_cor.append(result[0])
+        prim_cor.append(result[1])
+    grafiks.plot(x_cor, kruskal_cor, label = "Kruskal")
+    grafiks.plot(x_cor, prim_cor, label = "Prim")
+    grafiks.xlabel(x_axis_name)
+    grafiks.ylabel('y - average time')
+    grafiks.title(f'A graph comparison of two algorithms ({50} iterations, {answer})')
+    grafiks.legend()
+    grafiks.show()
 
