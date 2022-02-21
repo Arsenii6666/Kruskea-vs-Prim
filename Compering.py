@@ -6,7 +6,7 @@ from Prime import algoritm as Prime_alg
 from Kruskal_1 import algoritm as Kruskal_alg
 import matplotlib.pyplot as grafiks
 def Itererions(vertexes, chance):
-    NUM_OF_ITERATIONS = 50
+    NUM_OF_ITERATIONS = 1000
     time_taken_code_1=0
     time_taken_code_2=0
     for i in tqdm(range(NUM_OF_ITERATIONS)):
@@ -57,7 +57,7 @@ def Print_Grafic(Use_big_data: bool, Num_of_vertexes=None, complitness=None):
     grafiks.plot(x_cor, prim_cor, label = "Prim")
     grafiks.xlabel(x_axis_name)
     grafiks.ylabel('y - average time')
-    grafiks.title(f'A graph comparison of two algorithms ({50} iterations, {answer})')
+    grafiks.title(f'A graph comparison of two algorithms ({1000} iterations, {answer})')
     grafiks.legend()
     grafiks.show()
 
